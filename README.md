@@ -1,2 +1,2 @@
-# tableau
+# Tableau
 Professional Example using Tableu
