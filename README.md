@@ -1,2 +1,2 @@
 # Tableau
-Professional Example using Tableu
+Professional Example using Tableau
